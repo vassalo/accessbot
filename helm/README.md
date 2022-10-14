@@ -1,4 +1,4 @@
-# StrongDM AccessBot
+# Helm Chart Configuration
 
 ## Install Chart
 
