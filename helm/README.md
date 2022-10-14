@@ -7,7 +7,6 @@ helm install accessbot ./accessbot --values values-override.yaml
 ```
 
 ## Chart values
-<div class="code-example" markdown="1">
 
 | Key | Type | Default | Description |
 |:-----|:------|:---------|:-------------|
@@ -36,5 +35,3 @@ helm install accessbot ./accessbot --values values-override.yaml
 | teams.enabled | bool | `false` | Set to `true` to enable MS Teams Integration |
 | teams.app_id | string | `""` | Azure Bot application ID |
 | teams.app_password | string | `""` | Azure Bot application password |
-
-</div>
